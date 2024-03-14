@@ -19,3 +19,7 @@
 
 # Go workspace file
 go.work
+
+*.pem
+go_build_main_go_linux
+go_build_main_go_linux.exe
